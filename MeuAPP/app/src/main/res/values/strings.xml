@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APP de notificação</string>
+
+    <string name="new_notification">Nova notificação </string>
+    <string name="notification_content">Conteúdo descrevendo a notificação .</string>
+    <string name="create_notification">Criar notificação </string>
+    <string name="notification_activity_description">Esta tela foi aberta a partir da notificação .</string>
+
+</resources>
